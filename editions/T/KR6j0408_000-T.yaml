@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0408/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一髻文殊師利童子陀羅尼念誦儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1183.xml
+    old_id: T20n1183
+hash: sha256:856adae763ed2115a6f700b404da47342fda3ef0d1c10ae1f5cc72a908d96577
