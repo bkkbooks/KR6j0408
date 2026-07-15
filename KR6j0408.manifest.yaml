@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0408/v1
 canonical_location: https://kanripo.org/bkk/KR6j0408/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 一髻文殊師利童子陀羅尼念誦儀軌
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0408_000.yaml, hash: 'sha256:856adae763ed2115a6f700b404da47342fda3ef0d1c10ae1f5cc72a908d96577'}
-  - {seq: 1, filename: KR6j0408_001.yaml, hash: 'sha256:115016e71e6012b3f8546ac10b7dc59fe632d61e567cb1887a8d2735c8a24b63'}
+  - {seq: 1, filename: KR6j0408_001.yaml, hash: 'sha256:033d9336442f2f0bf0db61d8b751ab20114a376979da7490868e1c8b1f0bbbdf'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0408_000.markers.yaml, hash: 'sha256:8eedef601e36e1551df852382d6c3ae75c20753986eb4914dcd174d83e2302a0'}
-  - {seq: 1, role: markers, filename: assets/KR6j0408_001.markers.yaml, hash: 'sha256:55ac382f113b2f207dd69194d9f2fb7622466bd099bddf836cada689e2f12028'}
+  - {seq: 1, role: markers, filename: assets/KR6j0408_001.markers.yaml, hash: 'sha256:bd6bced94448766af643b6a69225ca2d69c8a1a117e48ca643de09351f7bba0c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,4 +42,7 @@ table_of_contents:
     誦儀軌'
   type: juan
   level: 1
-hash: sha256:0e1436dfeefc6f1092c457876371ccde43cfdeb1622f2ae114619d07e7a95cc1
+hash: sha256:f05de8f1248e7bc225caa94c53c248eb2ba2f6317dcc3a8f062ace34ed04fe0f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
